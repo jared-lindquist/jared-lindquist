@@ -1,5 +1,6 @@
 # jared-lindquist.github.io
 # 💫 About Me:
+In the last 8 years of my career, I have had a hand in serving thousands of delicious lattes to customers all over the midwest. Whether those lattes came from my own hands, or the hands of baristas and business owners who came to me for training. Getting there was all about helping folks solve problems for their businesses-and software development is all about solving problems. I’m interested in a position as a Software Developer position because I believe it will allow me the opportunity to build products that will both solve client needs while continuing to expand my skill-set and become a better developer and teammate. As well as allow me to thrive in a workplace like that values culture, relationship building and continuing professional development. <br>
 I recently deployed my solo project called "How Do You Brew?" here : https://arcane-journey-46683.herokuapp.com/ <br>A responsive web application for coffee enthusiasts and professionals to create and save their favorite coffee recipes, and share their favorite recipes with other enthusiasts.<br>Technologies used: React, Redux, Redux Saga, JavaScript, HTML, CSS, Material UI, Node, Express, Postman, PostgreSQL, and Postico.<br><br>
 
 
